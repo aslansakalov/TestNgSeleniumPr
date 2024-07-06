@@ -4,8 +4,5 @@
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="TestNgSeleniumPr" target="14" />
-    </bytecodeTargetLevel>
   </component>
 </project>
