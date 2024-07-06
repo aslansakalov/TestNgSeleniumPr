@@ -1,0 +1,32 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium Parallel Test" parallel="tests" thread-count="3">
+
+    <listeners>
+        <listener class-name="listeners.ExtentReportsListener"></listener>
+
+    </listeners>
+
+    <test name="Application Test 1">
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name="search" value="Chrome parallel and cross-browser testing"></parameter>
+        <classes>
+            <class name="selenium.SeleniumParallel_Test"></class>
+        </classes>
+    </test>
+    <test name="Application Test 2">
+        <parameter name="browser" value="firefox"></parameter>
+        <parameter name="search" value="Firefox parallel and cross-browser testing"></parameter>
+        <classes>
+            <class name="selenium.SeleniumParallel_Test"></class>
+        </classes>
+    </test>
+
+    <test name="Application Test 3">
+        <parameter name="browser" value="safari"></parameter>
+        <parameter name="search" value="Safari parallel and cross-browser testing"></parameter>
+        <classes>
+            <class name="selenium.SeleniumParallel_Test"></class>
+        </classes>
+    </test>
+</suite>
+

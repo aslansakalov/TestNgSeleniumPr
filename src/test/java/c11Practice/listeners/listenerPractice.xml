@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="iTestListenerPractice">
+    <listeners>
+        <listener class-name="c11Practice.listeners.ExtentReport_Listener"/>
+    </listeners>
+    <test name="practice">
+        <classes>
+            <class name="c11Practice.listeners.PracticeLoginTest"/>
+        </classes>
+    </test>
+</suite>

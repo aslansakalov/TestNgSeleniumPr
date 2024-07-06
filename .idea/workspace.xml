@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c79ce3e-9626-4ebc-9e73-6643f45d5d21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="1uSPpO4GNIPg7WnL0IRwjYTNx1m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/aslanny2021/Documents/Yoll_Frameworks/TestNgSeleniumPr",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MobiCentrix\Desktop\ELVIN\TestNgSeleniumPr\src\test\java" />
+      <recent name="C:\Users\MobiCentrix\Desktop\ELVIN\TestNgSeleniumPr\src\test\java\tutoringTestNg\paralelTesting\methods" />
+      <recent name="C:\Users\MobiCentrix\Desktop\ELVIN\TestNgSeleniumPr\src\test\java\tutoringTestNg\grouping" />
+      <recent name="C:\Users\MobiCentrix\Desktop\ELVIN\TestNgSeleniumPr\src\test\java\tutoringTestNg\paralelTesting\crossBrowser" />
+      <recent name="C:\Users\MobiCentrix\Desktop\ELVIN\TestNgSeleniumPr\src\test\java\tutoringTestNg\parametrization" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MobiCentrix\Desktop\ELVIN\TestNgSeleniumPr\xmlFilesForPR" />
+      <recent name="$PROJECT_DIR$/xml-files-hrm" />
+      <recent name="$PROJECT_DIR$/xml-files-parallel" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tutoringTestNg.grouping" />
+      <recent name="tutoringTestNg.executionOrder" />
+      <recent name="tutoringTestNg.assertions" />
+      <recent name="tutoringTestNg.annotations" />
+      <recent name="tutoringTestNg.listeners" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.BasicAnnotations">
+    <configuration name="BasicAnnotations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNgSeleniumPr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c11Practice.annotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="c11Practice.annotations" />
+      <option name="MAIN_CLASS_NAME" value="c11Practice.annotations.BasicAnnotations" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/MobiCentrix/Desktop/ELVIN/TestNgSeleniumPr/src/test/java/tutoringTestNg/paralelTesting/classes/paralelClasses.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNgSeleniumPr" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/tutoringTestNg/paralelTesting/classes/paralelClasses.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/MobiCentrix/Desktop/ELVIN/TestNgSeleniumPr/src/test/java/tutoringTestNg/paralelTesting/crossBrowser/paralelCrossBrowserTesting.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNgSeleniumPr" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/tutoringTestNg/paralelTesting/crossBrowser/paralelCrossBrowserTesting.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/MobiCentrix/Desktop/ELVIN/TestNgSeleniumPr/src/test/java/tutoringTestNg/paralelTesting/methods/paralelMethods.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNgSeleniumPr" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/tutoringTestNg/paralelTesting/methods/paralelMethods.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParalelExecWithSingleMethod.methodOne" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNgSeleniumPr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutoringTestNg.paralelTesting.methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tutoringTestNg.paralelTesting.methods" />
+      <option name="MAIN_CLASS_NAME" value="tutoringTestNg.paralelTesting.methods.ParalelExecWithSingleMethod" />
+      <option name="METHOD_NAME" value="methodOne" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.BasicAnnotations" />
+      <item itemvalue="TestNG.ParalelExecWithSingleMethod.methodOne" />
+      <item itemvalue="TestNG.C:/Users/MobiCentrix/Desktop/ELVIN/TestNgSeleniumPr/src/test/java/tutoringTestNg/paralelTesting/classes/paralelClasses.xml" />
+      <item itemvalue="TestNG.C:/Users/MobiCentrix/Desktop/ELVIN/TestNgSeleniumPr/src/test/java/tutoringTestNg/paralelTesting/crossBrowser/paralelCrossBrowserTesting.xml" />
+      <item itemvalue="TestNG.C:/Users/MobiCentrix/Desktop/ELVIN/TestNgSeleniumPr/src/test/java/tutoringTestNg/paralelTesting/methods/paralelMethods.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ParalelExecWithSingleMethod.methodOne" />
+        <item itemvalue="TestNG.C:/Users/MobiCentrix/Desktop/ELVIN/TestNgSeleniumPr/src/test/java/tutoringTestNg/paralelTesting/methods/paralelMethods.xml" />
+        <item itemvalue="TestNG.C:/Users/MobiCentrix/Desktop/ELVIN/TestNgSeleniumPr/src/test/java/tutoringTestNg/paralelTesting/crossBrowser/paralelCrossBrowserTesting.xml" />
+        <item itemvalue="TestNG.C:/Users/MobiCentrix/Desktop/ELVIN/TestNgSeleniumPr/src/test/java/tutoringTestNg/paralelTesting/classes/paralelClasses.xml" />
+        <item itemvalue="TestNG.BasicAnnotations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c79ce3e-9626-4ebc-9e73-6643f45d5d21" name="Default Changelist" comment="" />
+      <created>1624656199003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624656199003</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

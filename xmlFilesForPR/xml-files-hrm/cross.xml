@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="2">
+    <test name="CrhomeTest">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="CrossParallel.CrossTestOne"/>
+        </classes>
+    </test>
+    <test name="FirefoxTest">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="CrossParallel.CrossTestTwo"/>
+        </classes>
+    </test>
+</suite>

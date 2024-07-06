@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Preserve Enable TestSuite">
+<test name="Test 1" preserve-order="false">
+	<classes>
+		<class name="practice.PreserveOrder2_Test"></class>
+		<class name="practice.PreserveOrder1_Test"></class>
+	</classes>
+</test>
+
+
+<test name="Test 2" preserve-order="true">
+	<classes>
+		<class name="practice.PreserveOrder2_Test"></class>
+		<class name="practice.PreserveOrder1_Test"></class>
+	</classes>
+</test>
+</suite>

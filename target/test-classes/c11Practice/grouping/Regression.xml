@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Regression">
+    <groups>
+        <run>
+            <include name="regression"/>
+        </run>
+    </groups>
+    <test name="RegressionExec">
+        <classes>
+            <class name="c11Practice.grouping.HomePageTest"/>
+            <class name="c11Practice.grouping.LoginTest"/>
+        </classes>
+    </test>
+</suite>

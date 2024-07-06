@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Release001(failed)">
+    <classes>
+      <class name="c11Practice.executionOrder.PriorityDisabledDependencyTesting">
+        <methods>
+          <include name="logOutFromHrmApplication"/>
+          <include name="loginWithValidCredentials"/>
+          <include name="logoVerification"/>
+        </methods>
+      </class> <!-- c11Practice.executionOrder.PriorityDisabledDependencyTesting -->
+    </classes>
+  </test> <!-- Release001(failed) -->
+</suite> <!-- Failed suite [Regression] -->

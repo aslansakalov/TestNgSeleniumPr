@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Parallel Suite" thread-count="2"  parallel="tests">
+	<suite-files>
+		<suite-file path="testng-enable.xml"/>
+		<suite-file path="testng-groups.xml"/>
+		<suite-file path="testng-parallel.xml">
+		</suite-file>
+	</suite-files>
+</suite>

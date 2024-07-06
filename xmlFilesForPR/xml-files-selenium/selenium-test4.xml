@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium Parallel Test" parallel="tests" thread-count="1">
+
+    <listeners>
+        <listener class-name="listeners.ExtentReport_Listener"></listener>
+
+    </listeners>
+
+    <test name="Application Test 1">
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name="name" value="Student"></parameter>
+        <parameter name="lastName" value="Job-Hunter"></parameter>
+        <parameter name="email" value="sdet@yoll.io"></parameter>
+        <parameter name="company" value="Yoll"></parameter>
+        <parameter name="jobTitle" value="SDET"></parameter>
+        <classes>
+            <class name="selenium.SeleniumParallel2_Test"></class>
+        </classes>
+    </test>
+
+
+</suite>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="crossBrowserTesting">
+    <test name="chrome">
+        <parameter name="browserName" value="chrome"/>
+        <classes>
+            <class name="c11Practice.parametrization.CrossBrowserTesting"/>
+        </classes>
+    </test>
+    <test name="firefox">
+        <parameter name="browserName" value="firefox"/>
+        <classes>
+            <class name="c11Practice.parametrization.CrossBrowserTesting"/>
+        </classes>
+    </test>
+    <test name="WithoutParameter">
+        <classes>
+            <class name="c11Practice.parametrization.CrossBrowserTesting"/>
+        </classes>
+    </test>
+</suite>

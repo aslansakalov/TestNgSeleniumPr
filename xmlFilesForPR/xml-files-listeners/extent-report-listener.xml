@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Liteners TestSuite">
+	<listeners>
+		<listener class-name="listeners.ExtentReport_Listener"></listener>
+		
+	</listeners>
+
+	<test name="Application Test 1">
+		<classes>
+			<class name="test_listeners.Test_1"></class>
+			<class name="test_listeners.Test_2"></class>
+
+			<class name="practice.Priority_Test"></class>
+
+		</classes>
+	</test>
+	
+</suite>

@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HRM">
+    <test name="HRM Test 1">
+        <groups>
+            <run>
+                <include name="Smoke" />
+            </run>
+        </groups>
+        <classes>
+            <class name="Hrm.HrmLoginTest"/>
+            <class name="Hrm.HrmJobsTest"/>
+            <class name="Hrm.HrmEmployeeTest"/>
+        </classes>
+    </test>
+</suite>

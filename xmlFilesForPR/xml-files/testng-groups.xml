@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Regression TestSuite">
+<test name="GroupsDemo">
+<groups>
+	<define name="all">
+		<include name="desks"></include>
+		<include name="laptops"></include>
+		<include name="phones"></include>
+	</define>
+	<define name="laptops">
+		<include name="apple"></include>
+		<include name="microsoft"></include>
+	</define>
+
+	<define name="phones">
+		<include name="ios"></include>
+		<include name="android"></include>
+	</define>
+	<run>
+		<include name="laptops"></include>
+	</run>
+</groups>
+	<classes>
+		<class name="practice.Grouping_Test"></class>
+	</classes>
+</test>
+</suite>
